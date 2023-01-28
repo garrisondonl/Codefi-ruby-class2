@@ -2,7 +2,7 @@ def say_hello_to(greeting = "Why am I here", name = "Donald")
     "#{greeting} " + "#{name}"
 end
 
-greet = "Hello, My name is: "
+greeting = "Hello, My name is: "
 my_name = "Steve"
 
 
